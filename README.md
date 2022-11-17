@@ -3,7 +3,7 @@ A collection of simple implementations of small ideas in python, c++, etc.
 
 ## autoType
 A program that shows fast typing using the typewrite method of the module pyautogui in python.  
-I also introduced this program in my blog(https://blog.hatena.ne.jp/kedzkiest/kedzkiest.hatenablog.com/edit?entry=4207112889904154453)  
+I also introduced this program in my blog(https://kedzkiest.hatenablog.com/entry/2022/08/01/190123)  
   
 ## calcAngelNumberDist  
 Program to calculate angel numbers for people born between January 1, 1900 and December 31, 2022.  
@@ -20,3 +20,4 @@ freq of angelNumber "9": 4990
   
 ## drawGeometry  
 A program to enjoy drawing using python's turtle module.  
+I also introduced this program in my blog(https://kedzkiest.hatenablog.com/entry/2022/08/01/190142)  
