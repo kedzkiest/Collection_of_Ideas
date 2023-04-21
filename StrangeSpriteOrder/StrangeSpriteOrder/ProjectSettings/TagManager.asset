@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Bright
+    uniqueID: 2550864937
+    locked: 0
